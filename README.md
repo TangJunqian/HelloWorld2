@@ -8,4 +8,4 @@ idk what im doing
   
   *[Defender: Doug Urner (https://douglasurner.github.io/prototypes/Defender/index.html)
   </details>
-  * [GAME_NAME: YOUR_NAME](GAME_URL)
+  * [GAME_NAME: Zack Dawson](GAME_URL)
